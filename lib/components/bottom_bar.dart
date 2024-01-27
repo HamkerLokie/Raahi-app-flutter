@@ -21,7 +21,7 @@ class _BottomBarState extends State<BottomBar> {
     setState(() {
       _selectedIndex = index;
     });
-    print(index);
+    // print(index);
   }
 
   @override
